@@ -1,0 +1,5 @@
+{
+    "name": "Text Input",
+    "main": "./TextInput.js",
+    "private": true
+}

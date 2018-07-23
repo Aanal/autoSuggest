@@ -1,0 +1,5 @@
+{
+  "name": "SearchResults",
+  "main": "./SearchResults.js",
+  "private": true
+}

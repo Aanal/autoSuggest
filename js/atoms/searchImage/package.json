@@ -1,0 +1,5 @@
+{
+    "name": "Search Image",
+    "main": "./SearchImage.js",
+    "private": true
+}

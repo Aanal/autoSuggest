@@ -1,0 +1,5 @@
+{
+  "name": "SearchBar",
+  "main": "./SearchBar.js",
+  "private": true
+}

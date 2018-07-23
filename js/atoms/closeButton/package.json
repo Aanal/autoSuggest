@@ -1,0 +1,5 @@
+{
+    "name": "Close Button",
+    "main": "./CloseButton.js",
+    "private": true
+}
